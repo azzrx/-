@@ -1,0 +1,7 @@
+Flask==3.0.0
+Flask-CORS==4.0.0
+Werkzeug==3.0.1
+SQLAlchemy==2.0.23
+bcrypt==4.0.1
+locust==3.8.0
+
